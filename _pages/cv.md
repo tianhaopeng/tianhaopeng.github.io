@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Math-Computer Science, University of California, San Diego, 2018
-* B.S. in Management Science, University of California, San Diego, 2019
+* Ph.D in Industrial Engineering, Texas A&M University, 2028 (expected)
 * M.S. in Industrial Engineering, Texas A&M University, 2024
-* Ph.D in Industrial Engineering, Texas A&M University, 2027 (expected)
+* B.S. in Mathematics-Computer Science, University of California, San Diego, 2019
 
+<!-- 
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -57,4 +57,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams 
+-->

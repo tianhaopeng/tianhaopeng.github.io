@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Haopeng Tian"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg" #.png for default
   bio              : "Graduate Student @ Texas A&M University"
   location         : "College Station, TX"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Haopeng-Tian-2"
   uri              :
