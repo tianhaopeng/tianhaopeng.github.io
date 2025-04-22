@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg" #.png for default
   bio              : "Graduate Student"
   location         : "College Station, TX"
-  employer         : "<a href='https://www.tamu.edu/' target='_blank'>Texas A&M University</a>"
+  employer         : "Texas A&M University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/"
   email            :
