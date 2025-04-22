@@ -13,7 +13,7 @@ redirect_from:
 Introduction
 ======
 
-**M.S. Thesis student**, advised by Dr. Satish Bukkapatnam<br>
+**M.S. Thesis student**, advised by [Dr. Satish Bukkapatnam](https://engineering.tamu.edu/industrial/profiles/bukkapatnam-satish.html)<br>
 <small>Wm Michael Barnes '64 Department of Industrial and Systems Engineering<br>
 Texas A&M University</small>
 
