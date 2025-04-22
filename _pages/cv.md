@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Industrial Engineering, Texas A&M University, 2028 (expected)
 * M.S. in Industrial Engineering, Texas A&M University, 2024
-* B.S. in Mathematics-Computer Science, University of California, San Diego, 2019
+* B.S. in Mathematics-Computer Science, University of California, San Diego, 2018
 
 <!-- 
 Work experience
