@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haopeng Tian's Homepage"
+title                    : "Haopeng Tian"
 title_separator          : "-"
 name                     : &name "Haopeng Tian"
 description              : &description "personal description"
