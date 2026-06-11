@@ -21,3 +21,11 @@ My research centers on developing advanced data science methodologies and integr
 Contact
 ======
 Email: hptian at tamu dot edu
+
+My Links
+======
+[Google Scholar]({{ site.author.googlescholar }})  
+[ResearchGate]({{ site.author.researchgate }})  
+[GitHub](https://github.com/{{ site.author.github }})  
+[LinkedIn](https://www.linkedin.com/in/{{ site.author.linkedin }})  
+[ORCID]({{ site.author.orcid }})  
