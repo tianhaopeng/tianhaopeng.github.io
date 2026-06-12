@@ -19,10 +19,10 @@ Texas A&M University</small>
 
 My research centers on developing advanced data science methodologies and integrating sensor technologies, machine systems, and human insights to tackle critical challenges in quality, safety, and performance assurance. My work primarily targets manufacturing processes and systems, with broader implications for Industry 4.0 and 5.0 paradigms in intelligent, human-centric production and lifeline systems.
 
-Education
+<!-- Education
 ======
 * <img src="{{ '/images/tamu-logo2.png' | relative_url }}" alt="Texas A&M logo" style="height:48px;vertical-align:middle;margin-right:8px;"> Ph.D in Industrial Engineering, Texas A&M University, 2028 (expected)
-* <img src="{{ '/images/ucsd-logo2.png' | relative_url }}" alt="UCSD logo" style="height:48px;vertical-align:middle;margin-right:8px;">B.S. in Mathematics-Computer Science, University of California, San Diego, 2018
+* <img src="{{ '/images/ucsd-logo2.png' | relative_url }}" alt="UCSD logo" style="height:48px;vertical-align:middle;margin-right:8px;">B.S. in Mathematics-Computer Science, University of California, San Diego, 2018 -->
 
 Contact
 ======
@@ -30,8 +30,8 @@ Email: hptian at tamu dot edu
 
 My Links
 ======
+[LinkedIn](https://www.linkedin.com/in/{{ site.author.linkedin }})  
+[GitHub](https://github.com/{{ site.author.github }})  
 [Google Scholar]({{ site.author.googlescholar }})  
 [ResearchGate]({{ site.author.researchgate }})  
-[GitHub](https://github.com/{{ site.author.github }})  
-[LinkedIn](https://www.linkedin.com/in/{{ site.author.linkedin }})  
 [ORCID]({{ site.author.orcid }})  
