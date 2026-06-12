@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* <img src="{{ '/images/tamu-logo2.png' | relative_url }}" alt="Texas A&M logo" style="height:48px;vertical-align:middle;margin-right:8px;"> Ph.D in Industrial Engineering, Texas A&M University, 2028 (expected)
-* <img src="{{ '/images/tamu-logo2.png' | relative_url }}" alt="Texas A&M logo" style="height:48px;vertical-align:middle;margin-right:8px;"> M.S. in Industrial Engineering, Texas A&M University, 2024
-* <img src="{{ '/images/ucsd-logo2.png' | relative_url }}" alt="UCSD logo" style="height:48px;vertical-align:middle;margin-right:8px;">B.S. in Mathematics-Computer Science, University of California, San Diego, 2018
+* <a href="https://www.tamu.edu" target="_blank" rel="noopener"><img src="{{ '/images/tamu-logo2.png' | relative_url }}" alt="Texas A&M logo" style="height:48px;vertical-align:middle;margin-right:8px;"></a> Ph.D in Industrial Engineering, Texas A&M University, 2028 (expected)
+* <a href="https://www.tamu.edu" target="_blank" rel="noopener"><img src="{{ '/images/tamu-logo2.png' | relative_url }}" alt="Texas A&M logo" style="height:48px;vertical-align:middle;margin-right:8px;"></a> M.S. in Industrial Engineering, Texas A&M University, 2024
+* <a href="https://ucsd.edu" target="_blank" rel="noopener"><img src="{{ '/images/ucsd-logo2.png' | relative_url }}" alt="UCSD logo" style="height:48px;vertical-align:middle;margin-right:8px;"></a>B.S. in Mathematics-Computer Science, University of California, San Diego, 2018
 
 
 <!-- 
