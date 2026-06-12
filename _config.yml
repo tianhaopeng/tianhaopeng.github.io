@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Haopeng Tian"
   avatar           : "profile.jpg" #.png for default
-  bio              : "Graduate Student"
-  location         : "College Station, TX"
-  employer         : "Texas A&M University"
+  bio              : #"Graduate Student"
+  location         : #"College Station, TX"
+  employer         : #"Texas A&M University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=QM2qBcUAAAAJ&hl=en&oi=ao"
   email            :
